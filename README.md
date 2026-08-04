@@ -2,6 +2,10 @@
 
 本仓库保存 2026 年 8 月的 Java 基础练习。练习说明放在 `assignments/`；源代码按 `day01`、`day02` 等包组织。
 
+- [完整学习计划](STUDY_PLAN.md)
+- [每日进度看板](PROGRESS.md)
+- [学习日志](learning-log/)
+
 ## Day 1
 
 ```powershell
@@ -21,4 +25,3 @@ Hello, Java 21!
 - 每个程序至少手动验证一个正常输入和一个边界输入。
 - 从 Day 14 开始，业务逻辑必须通过测试验收。
 - 禁止提交 `target/`、IDE配置、数据库密码或JWT密钥。
-
