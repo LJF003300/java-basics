@@ -5,6 +5,8 @@
 - [完整学习计划](STUDY_PLAN.md)
 - [每日进度看板](PROGRESS.md)
 - [学习日志](learning-log/)
+- [Java 集合速记](notes/collections.md)
+- [继承、多态与接口速记](notes/inheritance-polymorphism-interface.md)
 
 ## Day 1
 
