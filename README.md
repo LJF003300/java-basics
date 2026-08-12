@@ -7,6 +7,7 @@
 - [学习日志](learning-log/)
 - [Java 集合速记](notes/collections.md)
 - [继承、多态与接口速记](notes/inheritance-polymorphism-interface.md)
+- [异常、枚举与泛型速记](notes/exceptions-enums-generics.md)
 
 ## Day 1
 
