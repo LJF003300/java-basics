@@ -9,6 +9,7 @@
 - [继承、多态与接口速记](notes/inheritance-polymorphism-interface.md)
 - [异常、枚举与泛型速记](notes/exceptions-enums-generics.md)
 - [文件与 IO 速记](notes/files-io.md)
+- [Lambda 与 Stream 速记](notes/lambda-stream.md)
 
 ## Day 1
 

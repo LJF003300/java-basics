@@ -23,7 +23,7 @@
 - [x] 8/10 集合
 - [x] 8/11 异常、枚举、泛型
 - [x] 8/12 文件与 IO
-- [ ] 8/13 Lambda、Stream、Optional
+- [x] 8/13 Lambda、Stream、Optional
 - [ ] 8/14 JUnit 5
 - [ ] 8/15 图书管理系统
 - [ ] 8/16 第二周复盘与 Git 分支
