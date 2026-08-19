@@ -11,6 +11,7 @@
 - [文件与 IO 速记](notes/files-io.md)
 - [Lambda 与 Stream 速记](notes/lambda-stream.md)
 - [JUnit 5 速记](notes/junit5.md)
+- [图书管理系统速记](notes/library-management.md)
 
 ## Day 1
 

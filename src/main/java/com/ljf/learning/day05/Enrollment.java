@@ -1,8 +1,8 @@
 package com.ljf.learning.day05;
 
 public class Enrollment {
-    private Student student;
-    private Course course;
+    private final Student student;
+    private final Course course;
 
     public Enrollment(Student student, Course course) {
         this.student = student;

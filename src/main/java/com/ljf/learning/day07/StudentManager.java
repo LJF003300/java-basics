@@ -1,7 +1,7 @@
 package com.ljf.learning.day07;
 
 public class StudentManager {
-    private StudentRecord[] students;
+    private final StudentRecord[] students;
     private int count;
 
     public StudentManager(int capacity) {

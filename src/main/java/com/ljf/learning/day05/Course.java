@@ -1,8 +1,8 @@
 package com.ljf.learning.day05;
 
 public class Course {
-    private String courseName;
-    private String teacherName;
+    private final String courseName;
+    private final String teacherName;
     private int limit;
 
     public Course(String courseName, String teacherName, int limit) {

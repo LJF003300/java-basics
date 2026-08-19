@@ -1,7 +1,7 @@
 package com.ljf.learning.day06;
 
 public class Teacher extends Person {
-    private String subject;
+    private final String subject;
 
     public Teacher(String name, String subject) {
         super(name);

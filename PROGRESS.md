@@ -25,7 +25,7 @@
 - [x] 8/12 文件与 IO
 - [x] 8/13 Lambda、Stream、Optional
 - [x] 8/14 JUnit 5
-- [ ] 8/15 图书管理系统
+- [x] 8/15 图书管理系统
 - [ ] 8/16 第二周复盘与 Git 分支
 
 ## Week 3

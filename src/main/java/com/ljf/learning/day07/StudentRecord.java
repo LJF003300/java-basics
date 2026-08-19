@@ -1,8 +1,8 @@
 package com.ljf.learning.day07;
 
 public class StudentRecord {
-    private String studentId;
-    private String name;
+    private final String studentId;
+    private final String name;
     private double score;
 
     public StudentRecord(String studentId, String name) {

@@ -6,9 +6,9 @@ import java.util.*;
 
 public class ContactService {
 
-    private List<Contact> contacts = new ArrayList<>();
-    private Set<String> phoneNumbers = new HashSet<>();
-    private Map<String, Contact> contactsByPhone =
+    private final List<Contact> contacts = new ArrayList<>();
+    private final Set<String> phoneNumbers = new HashSet<>();
+    private final Map<String, Contact> contactsByPhone =
             new HashMap<>();
 
     public void addContact(Contact contact){

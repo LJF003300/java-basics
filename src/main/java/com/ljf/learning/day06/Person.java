@@ -1,7 +1,7 @@
 package com.ljf.learning.day06;
 
 public class Person {
-    private String name;
+    private final String name;
 
     public Person(String name) {
         this.name = name;

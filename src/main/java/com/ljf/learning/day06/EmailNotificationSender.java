@@ -3,7 +3,7 @@ package com.ljf.learning.day06;
 
 public class EmailNotificationSender
         implements NotificationSender {
-    private String email;
+    private final String email;
 
     public EmailNotificationSender(String email) {
         this.email = email;

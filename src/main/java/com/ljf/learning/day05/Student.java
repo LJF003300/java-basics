@@ -1,7 +1,7 @@
 package com.ljf.learning.day05;
 
 public class Student {
-    private String name;
+    private final String name;
     private int age;
 
     public Student(String name, int age) {

@@ -1,7 +1,7 @@
 package com.ljf.learning.review.week01;
 
 public class Product {
-    private String name;
+    private final String name;
     private double price;
     private int stock;
 
